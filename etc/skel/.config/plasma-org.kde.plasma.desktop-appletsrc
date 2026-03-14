@@ -36,7 +36,7 @@ DialogWidth=720
 
 [Containments][23][Applets][24][Configuration][General]
 favoritesPortedToKAstats=true
-icon=org.cachyos.hello
+icon=org.veloxos.hello
 systemFavorites=suspend\\,hibernate\\,reboot\\,shutdown
 
 [Containments][23][Applets][24][Configuration][Shortcuts]
