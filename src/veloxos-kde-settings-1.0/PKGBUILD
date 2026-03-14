@@ -17,7 +17,7 @@ install="$pkgname.install"
 provides=('veloxos-desktop-settings')
 conflicts=('veloxos-desktop-settings')
 source=("$pkgname-$pkgver.tar.gz::$url/archive/$pkgver.tar.gz")
-sha512sums=('58ebe9cd993ef4ce8e0513eed6e639c71fa118f6cc4cf560b5fa252ae16c40a65887eb925a766ebf5fd88092f247f2f3cb5a1bbfdfa306e93a286a61fbef06c5')
+sha512sums=('8e81881d58a715741f33e904608c0e5bf9f6e3cba0547d3d37b94e2f88f50717d493c5a164dbdecefb661b398fcd60f253b73e409ac23deff0a008751779c3ed')
 
 package() {
     install -d "$pkgdir/etc"
